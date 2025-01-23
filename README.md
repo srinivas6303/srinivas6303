@@ -50,6 +50,12 @@
 - **Technologies:** HTML5, CSS (Grid Layout), VS Code
 - Designed and developed a responsive portfolio website with sections for About, Education, Skills, Projects, and more.
 
+### 💼 CRUD Operations with JDBC in Java
+- **Technologies:** Java, JDBC, MySQL, IntelliJ IDEA
+- Developed a Java application to perform **CRUD (Create, Read, Update, Delete)** operations using **JDBC** and **MySQL**.
+- Created a MySQL database (`employee_db`) and table (`employee`) to store employee records.
+- Implemented methods to **save**, **update**, **delete**, and **retrieve** employee data.
+
 ---
 
 ## 👨‍💻 Internship
