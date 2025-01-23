@@ -9,7 +9,7 @@
 - **Programming Languages:** Java, C, SQL
 - **API Development:** REST API, JDBC, Stream API
 - **ORM Frameworks:** Hibernate, JPA
-- **Java REST API Frameworks:** Spring Boot, Jersey
+- **Java Frameworks:** Spring Framework,Spring Boot, Jersey
 - **Frontend Technologies:** HTML, CSS, JavaScript
 - **Tools & IDEs:** Postman, Git, GitHub, MySQL Workbench, Eclipse, IntelliJ IDEA, Visual Studio Code
 - **Project Management:** Apache Maven
