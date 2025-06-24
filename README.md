@@ -5,7 +5,7 @@
 📍 **Alwal, Hyderabad, Telangana**  
 📧 [srinivas64400@gmail.com](mailto:srinivas64400@gmail.com)  
 📱 +91-6303666197  
-🔗 [LinkedIn](https://www.linkedin.com/in/dappusrinivas/) |  [LeetCode](https://leetcode.com/u/srinivas7075/) | [Resume (PDF)]([https://drive.google.com/file/d/19xJjwTMKGV8psS11sb0KV0dpwVlL6Ci5/view?usp=sharing](https://drive.google.com/file/d/1qsYPecwkZtIizOG4l64dxQFsQ0tLtdmJ/view))
+🔗 [LinkedIn](https://www.linkedin.com/in/dappusrinivas/) |  [LeetCode](https://leetcode.com/u/srinivas7075/) | [Resume (PDF)](https://drive.google.com/file/d/1qsYPecwkZtIizOG4l64dxQFsQ0tLtdmJ/view)
 
 ---
 
